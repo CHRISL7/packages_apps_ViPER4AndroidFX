@@ -1,0 +1,3 @@
+# ViPER4AndroidFX
+PRODUCT_PACKAGES += \
+    ViPER4AndroidFX
